@@ -1,0 +1,7 @@
+*.log
+target/
+Android_Pixel_5_API_34/
+iOS_iPhone 14 Pro Max/
+src/test/resources/apps/
+Chrome_Browser/
+Edge_Browser/
